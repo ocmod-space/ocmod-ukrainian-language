@@ -1,0 +1,4 @@
+*.fclignore
+*.pwd
+ocmodw.inc
+ocmodw.ini.php
