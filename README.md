@@ -5,7 +5,7 @@
 Наразі підтримує OpenCart v3.x.
 
 ## Посилання
-* [Інструкція з встановлення](./module/HOW-TO.md).
+* [Інструкція з встановлення](module/HOWTO.md).
 * [Завантажити](https://github.com/ocmod-space/ocmod-ukrainian-language/raw/main/module/zip/3x/ukrainian_language.ocmod.zip) мовне розширення.
 
 ## Ліцензія
