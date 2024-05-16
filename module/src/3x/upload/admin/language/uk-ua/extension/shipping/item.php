@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Доставка з оплатою за одиницю';
+$_['heading_title'] = 'З оплатою за одиницю товару';
 
 // Text
 $_['text_extension'] = 'Розширення';
