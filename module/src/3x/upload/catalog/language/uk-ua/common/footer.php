@@ -15,4 +15,4 @@ $_['text_account'] = 'Особистий Кабінет';
 $_['text_order'] = 'Історія замовлень';
 $_['text_wishlist'] = 'Закладки';
 $_['text_newsletter'] = 'Розсилка';
-$_['text_powered'] = '<a rel="nofollow" href="https://www.opencart.com/index.php?route=marketplace/extension&amp;filter_member=ocmod.space" target="_blank">Розробка інтернет-магазинів на Opencart</a> %s &copy; %s';
+$_['text_powered'] = '%s &copy; %s<br />За підтримки <a href="https://github.com/ocmod-space/">ocmod.space</a>';
