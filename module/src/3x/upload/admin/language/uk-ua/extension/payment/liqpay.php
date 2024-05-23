@@ -5,7 +5,7 @@ $_['heading_title'] = 'LIQPAY';
 
 // Text
 $_['text_extension'] = 'Розширення';
-$_['text_success'] = 'Налаштування успішно змінено!';
+$_['text_success'] = 'Налаштування були успішно змінені!';
 $_['text_edit'] = 'Редагувати';
 $_['text_pay'] = 'LIQPAY';
 $_['text_card'] = 'Кредитна карта';

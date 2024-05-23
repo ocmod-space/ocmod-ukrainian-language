@@ -13,7 +13,7 @@ $_['text_forgotten'] = '<a href="customer_id=%d>%s</a> - запропонова�
 $_['text_reset'] = '<a href="customer_id=%d>%s</a> - відновив пароль.';
 $_['text_login'] = '<a href="customer_id=%d>%s</a> - виконаний enter.';
 $_['text_password'] = '<a href="customer_id=%d>%s</a> - оновлено пароль.';
-$_['text_register'] = '<a href="customer_id=%d>%s</a> - зареєстрований аккаунт.';
+$_['text_register'] = '<a href="customer_id=%d>%s</a> - зареєстрований акаунт.';
 $_['text_return_account'] = '<a href="customer_id=%d>%s</a> - запитано повернення вантажу.';
 $_['text_return_guest'] = '%s - запитано повернення вантажу.';
 $_['text_order_account'] = '<a href="customer_id=%d>%s</a> - створений <a href="order_id=%d">новий замовлення</a>.';

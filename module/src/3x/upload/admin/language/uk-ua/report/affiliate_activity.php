@@ -10,7 +10,7 @@ $_['text_forgotten'] = '<a href="affiliate_id=%d>%s</a> - запропонова
 $_['text_login'] = '<a href="affiliate_id=%d>%s</a> - виконаний вхід.';
 $_['text_password'] = '<a href="affiliate_id=%d>%s</a> - оновлено пароль.';
 $_['text_payment'] = '<a href="affiliate_id=%d>%s</a> - оновлені деталі оплати.';
-$_['text_register'] = '<a href="affiliate_id=%d>%s</a> - зареєстровано новий аккаунт.';
+$_['text_register'] = '<a href="affiliate_id=%d>%s</a> - зареєстровано новий акаунт.';
 
 // Column
 $_['column_affiliate'] = 'Партнер';
