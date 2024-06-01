@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Післяплата';
+$_['heading_title'] = 'Післяплата/При отриманні';
 
 // Text
 $_['text_extension'] = 'Розширення';
