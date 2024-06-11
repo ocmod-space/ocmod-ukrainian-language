@@ -13,7 +13,7 @@ $_['column_code'] = 'Код';
 $_['column_trigger'] = 'Тригер';
 $_['column_action'] = 'Дія';
 $_['column_status'] = 'Статус';
-$_['column_date_added'] = 'Додано';
+$_['column_date_added'] = 'Дата';
 $_['column_action'] = 'Дія';
 
 // Error

@@ -13,8 +13,8 @@ $_['text_ip'] = 'Ви можете створити список IP адрес, 
 // Column
 $_['column_name'] = 'Ім&#39;я';
 $_['column_status'] = 'Статус';
-$_['column_date_added'] = 'Дата додавання';
-$_['column_date_modified'] = 'Дата зміни';
+$_['column_date_added'] = 'Додано';
+$_['column_date_modified'] = 'Змінено';
 $_['column_token'] = 'Token';
 $_['column_ip'] = 'IP';
 $_['column_action'] = 'Дія';

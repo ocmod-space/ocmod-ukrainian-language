@@ -13,7 +13,7 @@ $_['column_order_id'] = '№';
 $_['column_customer'] = 'Покупець';
 $_['column_status'] = 'Стан';
 $_['column_total'] = 'Сума';
-$_['column_date_added'] = 'Додано';
+$_['column_date_added'] = 'Дата';
 $_['column_action'] = 'Дія';
 
 // Entry

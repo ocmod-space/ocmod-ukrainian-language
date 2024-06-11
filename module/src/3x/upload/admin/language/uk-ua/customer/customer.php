@@ -34,7 +34,7 @@ $_['column_name'] = 'Ім&#39;я клієнта';
 $_['column_email'] = 'E-Mail';
 $_['column_customer_group'] = 'Група клієнтів';
 $_['column_status'] = 'Статус';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата реєстрації';
 $_['column_comment'] = 'Коментар';
 $_['column_description'] = 'Опис';
 $_['column_amount'] = 'Сума';
@@ -82,7 +82,7 @@ $_['entry_amount'] = 'Сума';
 $_['entry_points'] = 'Бали';
 $_['entry_name'] = 'Ім&#39;я клієнта';
 $_['entry_ip'] = 'IP';
-$_['entry_date_added'] = 'Дата додана';
+$_['entry_date_added'] = 'Дата реєстрації';
 
 // Help
 $_['help_safe'] = 'Встановіть значення true, щоб схвалити цього клієнта, від того, якщо він був спійманий за системою по боротьбі з шахрайством';

@@ -16,7 +16,7 @@ $_['text_register'] = '<a href="affiliate_id=%d>%s</a> - зареєстрова�
 $_['column_affiliate'] = 'Партнер';
 $_['column_comment'] = 'Коментарі';
 $_['column_ip'] = 'IP';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата';
 
 // Entry
 $_['entry_affiliate'] = 'Партнер';

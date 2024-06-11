@@ -21,8 +21,8 @@ $_['column_customer'] = 'Клієнт';
 $_['column_product'] = 'Товар';
 $_['column_model'] = 'Модель';
 $_['column_status'] = 'Статус';
-$_['column_date_added'] = 'Дата додавання';
-$_['column_date_modified'] = 'Дата зміни';
+$_['column_date_added'] = 'Додано';
+$_['column_date_modified'] = 'Змінено';
 $_['column_comment'] = 'Коментар';
 $_['column_notify'] = 'Клієнт повідомлений';
 $_['column_action'] = 'Дія';
@@ -45,8 +45,8 @@ $_['entry_return_action'] = 'Дія по поверненню';
 $_['entry_return_status'] = 'Статус повернення';
 $_['entry_notify'] = 'Клієнт повідомлений';
 $_['entry_return_id'] = '№ Повернення';
-$_['entry_date_added'] = 'Дата додавання';
-$_['entry_date_modified'] = 'Дата зміни';
+$_['entry_date_added'] = 'Додано';
+$_['entry_date_modified'] = 'Змінено';
 
 // Help
 $_['help_product'] = '(Завершення)';

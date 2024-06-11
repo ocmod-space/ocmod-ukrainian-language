@@ -12,7 +12,7 @@ $_['text_install'] = 'Встановлення';
 
 // Стовпець
 $_['column_filename'] = 'Імя файлу';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата';
 $_['column_action'] = 'Дія';
 
 // Вступ

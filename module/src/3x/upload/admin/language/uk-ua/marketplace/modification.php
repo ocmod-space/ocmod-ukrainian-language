@@ -13,7 +13,7 @@ $_['column_name'] = 'Модифікація Name';
 $_['column_author'] = 'Автор';
 $_['column_version'] = 'Версія';
 $_['column_status'] = 'Статус';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата';
 $_['column_action'] = 'Дія';
 
 // Error

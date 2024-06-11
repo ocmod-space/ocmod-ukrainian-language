@@ -15,7 +15,7 @@ $_['text_instock'] = 'Є на складі';
 $_['text_rating'] = 'Рейтинг';
 $_['text_reviews'] = 'Всього відгуків: %s';
 $_['text_summary'] = 'Короткий опис';
-$_['text_weight'] = 'Вагу';
+$_['text_weight'] = 'Вага';
 $_['text_dimension'] = 'Розміри (Д х Ш х В)';
 $_['text_compare'] = 'Порівняння товарів (%s)';
 $_['text_success'] = 'Товар <a href="%s">%s</a> додано до списку <a href="%s">список порівняння</a>!';

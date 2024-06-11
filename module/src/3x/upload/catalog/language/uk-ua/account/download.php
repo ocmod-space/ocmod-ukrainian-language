@@ -12,4 +12,4 @@ $_['text_empty'] = 'У Вас немає замовлень з файлами д
 $_['column_order_id'] = '№ Замовлення';
 $_['column_name'] = 'Назва';
 $_['column_size'] = 'Розмір';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата';

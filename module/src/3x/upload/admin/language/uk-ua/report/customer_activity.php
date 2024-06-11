@@ -23,7 +23,7 @@ $_['text_order_guest'] = '%s - створений <a href="order_id=%d">нови
 $_['column_customer'] = 'Клієнт';
 $_['column_comment'] = 'Коментарі';
 $_['column_ip'] = 'IP';
-$_['column_date_added'] = 'Дата додавання';
+$_['column_date_added'] = 'Дата';
 
 // Entry
 $_['entry_customer'] = 'Клієнт';
