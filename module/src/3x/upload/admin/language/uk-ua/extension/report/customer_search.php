@@ -20,8 +20,8 @@ $_['column_ip'] = 'IP';
 $_['column_date_added'] = 'Date Added';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end'] = 'Date End';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_keyword'] = 'Keyword';
 $_['entry_customer'] = 'Customer';
 $_['entry_ip'] = 'IP';

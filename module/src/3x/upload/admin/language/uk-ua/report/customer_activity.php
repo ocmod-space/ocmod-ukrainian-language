@@ -28,5 +28,5 @@ $_['column_date_added'] = 'Дата';
 // Entry
 $_['entry_customer'] = 'Клієнт';
 $_['entry_ip'] = 'IP';
-$_['entry_date_start'] = 'Дата';
-$_['entry_date_end'] = 'Дата закінчення';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';

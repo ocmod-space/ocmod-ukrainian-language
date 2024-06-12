@@ -18,8 +18,8 @@ $_['column_orders'] = 'No. Orders';
 $_['column_total'] = 'Total';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end'] = 'Date End';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_status'] = 'Order Status';
 $_['entry_status'] = 'Status';
 $_['entry_sort_order'] = 'Sort Order';

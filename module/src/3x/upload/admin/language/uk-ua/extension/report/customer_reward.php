@@ -20,8 +20,8 @@ $_['column_total'] = 'Total';
 $_['column_action'] = 'Action';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end'] = 'Date End';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_customer'] = 'Customer';
 $_['entry_status'] = 'Status';
 $_['entry_sort_order'] = 'Sort Order';

@@ -17,6 +17,6 @@ $_['column_total'] = 'Разом';
 $_['column_action'] = 'Дія';
 
 // Entry
-$_['entry_date_start'] = 'Дата';
-$_['entry_date_end'] = 'Дата закінчення';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_customer'] = 'Клієнт';

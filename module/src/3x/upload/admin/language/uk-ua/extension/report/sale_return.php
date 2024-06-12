@@ -15,13 +15,13 @@ $_['text_day'] = 'Days';
 $_['text_all_status'] = 'All Statuses';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end'] = 'Date End';
+$_['column_date_start'] = 'Початкова дата';
+$_['column_date_end'] = 'Кінцева дата';
 $_['column_returns'] = 'No. Returns';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end'] = 'Date End';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_group'] = 'Group By';
 $_['entry_status'] = 'Return Status';
 $_['entry_status'] = 'Status';

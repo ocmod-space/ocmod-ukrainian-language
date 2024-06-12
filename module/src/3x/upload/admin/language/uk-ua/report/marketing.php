@@ -15,6 +15,6 @@ $_['column_orders'] = 'Кількість замовлень';
 $_['column_total'] = 'Разом';
 
 // Entry
-$_['entry_date_start'] = 'Дата';
-$_['entry_date_end'] = 'Дата закінчення';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_status'] = 'Статус замовлення';

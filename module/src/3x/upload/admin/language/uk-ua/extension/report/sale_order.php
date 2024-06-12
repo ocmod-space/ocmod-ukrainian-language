@@ -15,16 +15,16 @@ $_['text_day'] = 'Days';
 $_['text_all_status'] = 'All Statuses';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end'] = 'Date End';
+$_['column_date_start'] = 'Початкова дата';
+$_['column_date_end'] = 'Кінцева дата';
 $_['column_orders'] = 'No. Orders';
 $_['column_products'] = 'No. Products';
 $_['column_tax'] = 'Tax';
 $_['column_total'] = 'Total';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end'] = 'Date End';
+$_['entry_date_start'] = 'Початкова дата';
+$_['entry_date_end'] = 'Кінцева дата';
 $_['entry_group'] = 'Group By';
 $_['entry_status'] = 'Order Status';
 $_['entry_status'] = 'Status';
