@@ -61,7 +61,7 @@ $_['column_action'] = 'Дія';
 
 // Entry
 $_['entry_order_recurring_id'] = '№ періодичного замовлення';
-$_['entry_order_id'] = '№ Замовлення';
+$_['entry_order_id'] = '№ замовлення';
 $_['entry_reference'] = 'Спосіб оплати';
 $_['entry_customer'] = 'Клієнт';
 $_['entry_date_added'] = 'Дата';
@@ -79,4 +79,4 @@ $_['entry_cancel_payment'] = 'Скасування оплати';
 
 // Error
 $_['error_not_cancelled'] = 'Увага! %s';
-$_['error_not_found'] = 'не Можна відключити профіль';
+$_['error_not_found'] = 'Неможливо відключити профіль';

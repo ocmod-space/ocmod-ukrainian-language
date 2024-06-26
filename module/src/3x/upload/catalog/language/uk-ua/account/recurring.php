@@ -101,7 +101,7 @@ $_['column_recurring_id'] = 'ID Профілю';
 
 // Error
 $_['error_not_cancelled'] = 'Увага! %s';
-$_['error_not_found'] = 'не Можна відключити профіль';
+$_['error_not_found'] = 'Неможливо відключити профіль';
 
 // Button
 $_['button_return'] = 'Повернення';

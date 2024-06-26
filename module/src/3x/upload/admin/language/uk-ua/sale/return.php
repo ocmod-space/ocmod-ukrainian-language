@@ -15,8 +15,8 @@ $_['text_product'] = 'Товари';
 $_['text_history'] = 'Додати';
 
 // Column
-$_['column_return_id'] = '№ Повернення';
-$_['column_order_id'] = '№ Замовлення';
+$_['column_return_id'] = '№ повернення';
+$_['column_order_id'] = '№ замовлення';
 $_['column_customer'] = 'Клієнт';
 $_['column_product'] = 'Товар';
 $_['column_model'] = 'Модель';
@@ -29,7 +29,7 @@ $_['column_action'] = 'Дія';
 
 // Entry
 $_['entry_customer'] = 'Клієнт';
-$_['entry_order_id'] = '№ Замовлення';
+$_['entry_order_id'] = '№ замовлення';
 $_['entry_date_ordered'] = 'Дата замовлення';
 $_['entry_firstname'] = 'Ім&apos;я, по-батькові';
 $_['entry_lastname'] = 'Прізвище';
@@ -44,7 +44,7 @@ $_['entry_return_reason'] = 'Причина повернення';
 $_['entry_return_action'] = 'Дія по поверненню';
 $_['entry_return_status'] = 'Статус повернення';
 $_['entry_notify'] = 'Клієнт повідомлений';
-$_['entry_return_id'] = '№ Повернення';
+$_['entry_return_id'] = '№ повернення';
 $_['entry_date_added'] = 'Додано';
 $_['entry_date_modified'] = 'Змінено';
 

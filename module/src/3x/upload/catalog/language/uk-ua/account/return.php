@@ -12,8 +12,8 @@ $_['text_order'] = 'Інформація про замовлення';
 $_['text_product'] = 'Інформація про товар';
 $_['text_reason'] = 'Інформація про причину повернення';
 $_['text_message'] = '<p>Ви відправили запит на повернення.</p><p> Повідомлення про статус запиту ви отримаєте на ваш email. Дякуємо!</p>';
-$_['text_return_id'] = '№ Запиту на повернення';
-$_['text_order_id'] = '№ Замовлення';
+$_['text_return_id'] = '№ запиту на повернення';
+$_['text_order_id'] = '№ замовлення';
 $_['text_date_ordered'] = 'Дата замовлення';
 $_['text_status'] = 'Статус';
 $_['text_date_added'] = 'Додано';
@@ -25,8 +25,8 @@ $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a>
 $_['button_submit'] = 'Відправити запит';
 
 // Column
-$_['column_return_id'] = '№ Запиту на повернення';
-$_['column_order_id'] = '№ Замовлення';
+$_['column_return_id'] = '№ запиту на повернення';
+$_['column_order_id'] = '№ замовлення';
 $_['column_status'] = 'Статус';
 $_['column_date_added'] = 'Додано';
 $_['column_customer'] = 'Клієнт';
@@ -40,7 +40,7 @@ $_['column_reason'] = 'Причина';
 $_['column_action'] = 'Дія';
 
 // Entry
-$_['entry_order_id'] = '№ Замовлення';
+$_['entry_order_id'] = '№ замовлення';
 $_['entry_date_ordered'] = 'Дата замовлення';
 $_['entry_firstname'] = 'Ім&apos;я';
 $_['entry_lastname'] = 'Прізвище';
