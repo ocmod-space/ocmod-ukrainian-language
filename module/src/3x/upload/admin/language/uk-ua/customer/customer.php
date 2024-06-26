@@ -15,7 +15,7 @@ $_['text_other'] = 'Інше';
 $_['text_affiliate'] = 'Партнерська інформація';
 $_['text_payment'] = 'Реквізити платежу';
 $_['text_balance'] = 'Баланс';
-$_['text_cheque'] = 'Перевірити';
+$_['text_cheque'] = 'Чек';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Банківський переказ';
 $_['text_history'] = 'Історія';
@@ -30,7 +30,7 @@ $_['text_login'] = 'Увійти в магазин';
 $_['text_unlock'] = 'Розблокувати обліковий запис';
 
 // Column
-$_['column_name'] = 'Ім&#39;я клієнта';
+$_['column_name'] = 'Ім&apos;я клієнта';
 $_['column_email'] = 'E-Mail';
 $_['column_customer_group'] = 'Група клієнтів';
 $_['column_status'] = 'Статус';
@@ -45,7 +45,7 @@ $_['column_action'] = 'Дія';
 
 // Entry
 $_['entry_customer_group'] = 'Група клієнтів';
-$_['entry_firstname'] = 'Ім&#39;я';
+$_['entry_firstname'] = 'Ім&apos;я';
 $_['entry_lastname'] = 'Прізвище';
 $_['entry_email'] = 'Електронна пошта';
 $_['entry_telephone'] = 'Телефон';
@@ -69,18 +69,18 @@ $_['entry_website'] = 'Веб-сайт';
 $_['entry_commission'] = 'Комісія (%)';
 $_['entry_tax'] = 'Податковий ідентифікатор';
 $_['entry_payment'] = 'Спосіб оплати';
-$_['entry_cheque'] = 'Перевірити Ім&#39;я одержувача платежу';
+$_['entry_cheque'] = 'Перевірити Ім&apos;я одержувача платежу';
 $_['entry_paypal'] = 'Обліковий запис електронної пошти PayPal';
 $_['entry_bank_name'] = 'Назва банку';
 $_['entry_bank_branch_number'] = 'Номер ABA / BSB (номер відділення)';
 $_['entry_bank_swift_code'] = 'Код SWIFT';
-$_['entry_bank_account_name'] = 'Ім&#39;я рахунку';
+$_['entry_bank_account_name'] = 'Ім&apos;я рахунку';
 $_['entry_bank_account_number'] = 'Номер рахунку';
 $_['entry_comment'] = 'Коментар';
 $_['entry_description'] = 'Опис';
 $_['entry_amount'] = 'Сума';
 $_['entry_points'] = 'Бали';
-$_['entry_name'] = 'Ім&#39;я клієнта';
+$_['entry_name'] = 'Ім&apos;я клієнта';
 $_['entry_ip'] = 'IP';
 $_['entry_date_added'] = 'Дата реєстрації';
 
@@ -93,23 +93,23 @@ $_['help_commission'] = 'Відсоток, який філія отримує з
 
 // Error
 $_['error_warning'] = 'Уважно перевірте форму на помилки!';
-$_['error_permission'] = 'У Вас немає прав для зміни налаштувань Клієнти!';
+$_['error_permission'] = 'Увага! У Вас недостатньо прав доступу, зерніться до адміністратора!';
 $_['error_exists'] = 'Цей e-mail вже зареєстрований!';
-$_['error_firstname'] = 'Ім&#39;я має містити від 1 до 32 символів!';
+$_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
 $_['error_email'] = 'E-Mail адресу введено невірно!';
 $_['error_telephone'] = 'Телефон повинен містити від 3 до 32 символів!';
-$_['error_password'] = 'Пароль має бути від 4 до 20 символів!';
+$_['error_password'] = 'Пароль має містити від 4 до 20 символів!';
 $_['error_confirm'] = 'Пароль і підтвердження паролю не співпадають!';
 $_['error_address_1'] = 'Адреса має містити від 3 до 128 символів!';
 $_['error_city'] = 'Місто повинен бути від 2 до 128 символів!';
 $_['error_postcode'] = 'Індекс повинен бути від 2 до 10 символів!';
 $_['error_country'] = 'Оберіть країну!';
-$_['error_zone'] = 'Виберіть регіон!';
+$_['error_zone'] = 'Оберіть регіон!';
 $_['error_custom_field'] = '%s необхідний!';
 $_['error_tracking'] = 'Код відстеження необхідний!';
 $_['error_tracking_exists'] = 'Код відстеження використовується іншим партнером!';
-$_['error_cheque'] = 'Потрібно перевірити ім&#39;я одержувача!';
+$_['error_cheque'] = 'Потрібно перевірити ім&apos;я одержувача!';
 $_['error_paypal'] = 'Адреса електронної пошти PayPal не є дійсною!';
 $_['error_bank_account_name'] = 'Потрібна назва облікового запису!';
 $_['error_bank_account_number'] = 'Номер облікового запису потрібно!';

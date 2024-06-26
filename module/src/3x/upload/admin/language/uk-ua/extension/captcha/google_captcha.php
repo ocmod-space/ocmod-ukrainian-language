@@ -14,6 +14,6 @@ $_['entry_secret'] = 'Secret key';
 $_['entry_status'] = 'Статус';
 
 // Error
-$_['error_permission'] = 'У Вас немає прав для управління даним модулем!';
+$_['error_permission'] = 'Увага! У Вас недостатньо прав доступу, зерніться до адміністратора!';
 $_['error_key'] = 'Site key необхідний!';
 $_['error_secret'] = 'Secret key необхідний!';

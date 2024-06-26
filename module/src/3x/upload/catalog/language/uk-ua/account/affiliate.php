@@ -28,8 +28,8 @@ $_['entry_bank_account_name'] = 'Account Name';
 $_['entry_bank_account_number'] = 'Account Number';
 
 // Error
-$_['error_agree'] = 'Попередження: Ви повинні погодитись на %s!';
-$_['error_cheque'] = 'Потрібно перевірити імя одержувача платежу!';
+$_['error_agree'] = 'Увага! Ви повинні погодитись на %s!';
+$_['error_cheque'] = 'Потрібно перевірити ім&apos;я одержувача платежу!';
 $_['error_paypal'] = 'PayPal Email Address не видається дійсним!';
 $_['error_bank_account_name'] = 'Потрібна назва облікового запису!';
 $_['error_bank_account_number'] = 'Необхідний номер облікового запису!';

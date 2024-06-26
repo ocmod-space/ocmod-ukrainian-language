@@ -15,7 +15,7 @@ $_['text_order_id'] = '№ замовлення:';
 $_['text_product'] = 'Товар:';
 $_['text_quantity'] = 'Кількість:';
 $_['text_description'] = 'Опис';
-$_['text_reference'] = 'Зв&#39;язок';
+$_['text_reference'] = 'Зв&apos;язок';
 $_['text_transaction'] = 'Транзакції';
 
 $_['text_status_1'] = 'Активний';
@@ -100,7 +100,7 @@ $_['column_action'] = 'Дія';
 $_['column_recurring_id'] = 'ID Профілю';
 
 // Error
-$_['error_not_cancelled'] = 'Помилка: %s';
+$_['error_not_cancelled'] = 'Увага! %s';
 $_['error_not_found'] = 'не Можна відключити профіль';
 
 // Button

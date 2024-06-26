@@ -58,7 +58,7 @@ $_['text_reward_removed'] = 'Бонусні бали прибрані!';
 $_['text_commission_added'] = 'Податок доданий!';
 $_['text_commission_removed'] = 'Податок прибраний!';
 $_['text_restock'] = 'Виконано: Складські запаси оновлено!';
-$_['text_upload'] = 'Файл успішно вивантажений!';
+$_['text_upload'] = 'Файл успішно передано!';
 $_['text_picklist'] = 'Список доставки';
 
 // Column
@@ -83,7 +83,7 @@ $_['column_weight'] = 'Вага товару';
 $_['entry_store'] = 'Магазин';
 $_['entry_customer'] = 'Клієнт';
 $_['entry_customer_group'] = 'Група покупців';
-$_['entry_firstname'] = 'Ім&#39;я, по Батькові';
+$_['entry_firstname'] = 'Ім&apos;я, по Батькові';
 $_['entry_lastname'] = 'Прізвище';
 $_['entry_email'] = 'E-Mail';
 $_['entry_telephone'] = 'Телефон';
@@ -97,12 +97,12 @@ $_['entry_postcode'] = 'Індекс:';
 $_['entry_country'] = 'Країна';
 $_['entry_zone'] = 'Область';
 $_['entry_zone_code'] = 'id';
-$_['entry_product'] = 'Виберіть товар';
-$_['entry_option'] = 'Виберіть варіант(и)';
+$_['entry_product'] = 'Оберіть товар';
+$_['entry_option'] = 'Оберіть варіант(и)';
 $_['entry_quantity'] = 'Кількість';
-$_['entry_to_name'] = 'Ім&#39;я одержувача';
+$_['entry_to_name'] = 'Ім&apos;я одержувача';
 $_['entry_to_email'] = 'Email одержувача';
-$_['entry_from_name'] = 'Ім&#39;я відправника';
+$_['entry_from_name'] = 'Ім&apos;я відправника';
 $_['entry_from_email'] = 'Email відправника';
 $_['entry_theme'] = 'Тема подарункового сертифіката';
 $_['entry_message'] = 'Повідомлення';
@@ -128,6 +128,6 @@ $_['help_override'] = 'Якщо замовлення заблокований с
 
 // Error
 $_['error_warning'] = 'Уважно перевірте форму на помилки!!';
-$_['error_permission'] = 'У Вас немає прав для зміни налаштувань Замовлень!';
+$_['error_permission'] = 'Увага! У Вас недостатньо прав доступу, зерніться до адміністратора!';
 $_['error_action'] = 'Не вдалося завершити дію!';
 $_['error_filetype'] = 'Неправильний тип файла!';

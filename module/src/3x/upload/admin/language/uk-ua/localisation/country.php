@@ -20,15 +20,15 @@ $_['entry_name'] = 'Назва країни';
 $_['entry_iso_code_2'] = 'Код ISO (2)';
 $_['entry_iso_code_3'] = 'Код ISO (3)';
 $_['entry_address_format'] = 'Формат адреси';
-$_['entry_postcode_required'] = 'Індекс обов&#39;язковий';
+$_['entry_postcode_required'] = 'Індекс обов&apos;язковий';
 $_['entry_status'] = 'Статус';
 
 // Help
-$_['help_address_format'] = 'Ім&#39;я = {firstname}<br />Прізвище = {lastname}<br />Компанія = {company}<br />Адреса 1 = {address_1}<br />Адреса 2 = {address_2}<br />Місто = {city}<br />Індекс = {postcode}<br />Регіон = {zone}<br />Код зони = {zone_code}<br />Країна = {country}';
+$_['help_address_format'] = 'Ім&apos;я = {firstname}<br />Прізвище = {lastname}<br />Компанія = {company}<br />Адреса 1 = {address_1}<br />Адреса 2 = {address_2}<br />Місто = {city}<br />Індекс = {postcode}<br />Регіон = {zone}<br />Код зони = {zone_code}<br />Країна = {country}';
 
 // Error
-$_['error_permission'] = 'У Вас немає прав для зміни списку країн';
-$_['error_name'] = 'Назва країни має бути від 3 до 128 символів!';
+$_['error_permission'] = 'Недостатньо прав.';
+$_['error_name'] = 'Назва країни має містити від 3 до 128 символів!';
 $_['error_default'] = 'Ця країна не може бути видалена, оскільки її вже призначено країною за замовчуванням для магазину!';
 $_['error_store'] = 'Ця країна не може бути видалена, оскільки вона використовується із %s магазинами!';
 $_['error_address'] = 'Ця країна не може бути видалена, оскільки вона використовується у %s записах адресної книги!';

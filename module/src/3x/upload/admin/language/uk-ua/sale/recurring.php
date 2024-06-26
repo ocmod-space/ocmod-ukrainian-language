@@ -78,5 +78,5 @@ $_['entry_payment_method'] = 'Спосіб оплати';
 $_['entry_cancel_payment'] = 'Скасування оплати';
 
 // Error
-$_['error_not_cancelled'] = 'Помилка: %s';
+$_['error_not_cancelled'] = 'Увага! %s';
 $_['error_not_found'] = 'не Можна відключити профіль';

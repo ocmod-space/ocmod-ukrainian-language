@@ -7,7 +7,7 @@ $_['heading_title'] = 'Звіт по купонах';
 $_['text_list'] = 'Купони';
 
 // Column
-$_['column_name'] = 'Ім&#39;я купона';
+$_['column_name'] = 'Ім&apos;я купона';
 $_['column_code'] = 'Код';
 $_['column_orders'] = 'Кількість замовлень';
 $_['column_total'] = 'Разом';

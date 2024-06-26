@@ -5,9 +5,9 @@ $_['heading_title'] = 'Мею за замовчуванням';
 
 // Текст
 $_['text_extension'] = 'Розширення';
-$_['text_success'] = 'Успіх: Ви змінили канал Google Base!';
+$_['text_success'] = 'Виконано! Ви змінили канал Google Base!';
 $_['text_edit'] = 'Редагувати Google Base';
-$_['text_import'] = 'Щоб імпортувати останній список категорій Google <a href = "https://support.google.com/merchants/answer/160081?hl=uk" target = "_ blank" class = " alert-link "> натисніть тут </a> і виберіть таксономію з числовими ідентифікаторами у файлі звичайного тексту (.txt). Вивантажити за допомогою зеленої кнопки імпорту. ';
+$_['text_import'] = 'Щоб імпортувати останній список категорій Google <a href = "https://support.google.com/merchants/answer/160081?hl=uk" target = "_ blank" class = " alert-link "> натисніть тут </a> і оберіть таксономію з числовими ідентифікаторами у файлі звичайного тексту (.txt). Вивантажити за допомогою зеленої кнопки імпорту. ';
 
 // Стовпець
 $_['column_google_category'] = 'Категорія Google';
@@ -21,6 +21,6 @@ $_['entry_data_feed'] = 'Url даних каналу';
 $_['entry_status'] = 'Статус';
 
 // Помилка
-$_['error_permission'] = 'Попередження: у вас немає дозволу на змінення каналу Google Base!';
-$_['error_upload'] = 'Файл не може бути вивантажений!';
+$_['error_permission'] = 'Увага! У Вас недостатньо прав доступу, зерніться до адміністратора!';
+$_['error_upload'] = 'Файл не може бути переданий!';
 $_['error_filetype'] = 'Неправильний тип файлу!';
