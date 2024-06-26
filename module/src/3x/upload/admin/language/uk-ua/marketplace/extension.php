@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Модулі/Додатки';
+$_['heading_title'] = 'Розширення';
 
 // Text
 $_['text_success'] = 'Виконано! Ви змінили модуль!';

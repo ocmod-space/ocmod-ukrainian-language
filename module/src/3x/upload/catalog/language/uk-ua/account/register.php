@@ -9,7 +9,7 @@ $_['text_register'] = 'Реєстрація';
 $_['text_account_already'] = 'Якщо Ви вже зареєстровані, перейдіть на сторінку <a href="%s">авторизації</a>.';
 $_['text_your_details'] = 'Основні дані';
 $_['text_your_address'] = 'адреса';
-$_['text_newsletter'] = 'Розсилка новин';
+$_['text_newsletter'] = 'Email-розсилкан';
 $_['text_your_password'] = 'пароль';
 $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a> і згоден з умовами';
 
@@ -32,7 +32,7 @@ $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердження пароля';
 
 // Error
-$_['error_exists'] = 'Цей e-mail вже зареєстрований!';
+$_['error_exists'] = 'Цей email вже зареєстрований!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
 $_['error_email'] = 'E-Mail введено неправильно!';

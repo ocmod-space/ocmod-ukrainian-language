@@ -31,4 +31,4 @@ $_['error_confirm'] = 'Password and password confirmation do not match!';
 $_['error_firstname'] = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname'] = 'Last Name must be between 1 and 32 characters!';
 $_['error_email'] = 'E-Mail Address does not appear to be valid!';
-$_['error_exists_email'] = 'Warning: e-mail Address is already registered!';
+$_['error_exists_email'] = 'Warning: email Address is already registered!';

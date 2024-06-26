@@ -17,7 +17,7 @@ $_['entry_telephone'] = 'Телефон';
 $_['entry_fax'] = 'Факс';
 
 // Error
-$_['error_exists'] = 'Цей e-mail вже зареєстрований!';
+$_['error_exists'] = 'Цей email вже зареєстрований!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
 $_['error_email'] = 'E-Mail адресу введено невірно!';

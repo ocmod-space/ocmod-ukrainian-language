@@ -18,5 +18,5 @@ $_['text_download'] = 'Файли для завантаження';
 $_['text_reward'] = 'Бонусні бали';
 $_['text_return'] = 'Повернення';
 $_['text_transaction'] = 'Історія транзакцій';
-$_['text_newsletter'] = 'E-Mail розсилка';
+$_['text_newsletter'] = 'Email-розсилка';
 $_['text_recurring'] = 'Регулярні платежі';
