@@ -4,16 +4,16 @@
 $_['heading_title'] = 'Default Store Theme';
 
 // Text
-$_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Success: You have modified the default store theme!';
-$_['text_edit'] = 'Edit Default Store Theme';
+$_['text_extension'] = 'Розширення';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
+$_['text_edit'] = 'Налаштування';
 $_['text_general'] = 'General';
 $_['text_product'] = 'Products';
 $_['text_image'] = 'Images';
 
 // Entry
 $_['entry_directory'] = 'Theme Directory';
-$_['entry_status'] = 'Status';
+$_['entry_status'] = 'Статус';
 $_['entry_product_limit'] = 'Default Items Per Page';
 $_['entry_product_description_length'] = 'List Description Limit';
 $_['entry_image_category'] = 'Category Image Size (W x H)';
@@ -35,7 +35,7 @@ $_['help_product_limit'] = 'Determines how many catalog items are shown per page
 $_['help_product_description_length'] = 'In the list view, short description character limit (categories, special etc)';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify the default store theme!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';
 $_['error_limit'] = 'Product Limit required!';
 $_['error_image_thumb'] = 'Product Image Thumb Size dimensions required!';
 $_['error_image_popup'] = 'Product Image Popup Size dimensions required!';

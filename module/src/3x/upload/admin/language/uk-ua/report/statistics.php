@@ -4,7 +4,7 @@
 $_['heading_title'] = 'Statistics';
 
 // Text
-$_['text_success'] = 'Success: You have modified statistics!';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_list'] = 'Statistics List';
 $_['text_order_sale'] = 'Order Sales';
 $_['text_order_processing'] = 'Orders Processing';
@@ -22,4 +22,4 @@ $_['column_value'] = 'Value';
 $_['column_action'] = 'Action';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify statistics!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

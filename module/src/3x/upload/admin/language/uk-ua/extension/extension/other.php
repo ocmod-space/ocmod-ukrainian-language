@@ -4,7 +4,7 @@
 $_['heading_title'] = 'Other';
 
 // Text
-$_['text_success'] = 'Success: You have modified other extension!';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_list'] = 'Other List';
 
 // Column
@@ -13,4 +13,4 @@ $_['column_status'] = 'Status';
 $_['column_action'] = 'Action';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify other extension!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

@@ -7,7 +7,7 @@ $_['heading_title'] = 'Валюти';
 $_['text_success'] = 'Курси валют оновлено';
 $_['text_list'] = 'Список валют';
 $_['text_add'] = 'Додати';
-$_['text_edit'] = 'Редагувати';
+$_['text_edit'] = 'Налаштування';
 $_['text_iso'] = 'Ви можете знайти повний список кодів валют ISO і налаштування <a href="http://www.xe.com/iso4217.php" target="_blank">на сайті</a>.';
 
 // Column

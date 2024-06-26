@@ -4,10 +4,10 @@
 $_['heading_title'] = 'Мови';
 
 // Text
-$_['text_success'] = 'Налаштування були успішно змінені!';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_list'] = 'Мови';
 $_['text_add'] = 'Додати';
-$_['text_edit'] = 'Редагувати';
+$_['text_edit'] = 'Налаштування';
 
 // Column
 $_['column_name'] = 'Мова';
@@ -23,7 +23,7 @@ $_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортування';
 
 // Help
-$_['help_locale'] = 'Приклад: en_US.UTF-8,ан,en-gb,en_gb,english або <br> uk_ua.UTF-8,uk_ua,russian';
+$_['help_locale'] = 'Приклад: en_US.UTF-8,ан,en-gb,en_gb,english або <br/> uk_ua.UTF-8,uk_ua,russian';
 $_['help_status'] = 'Показати/Приховати перемикачі мов (вітрина магазину).';
 
 // Error

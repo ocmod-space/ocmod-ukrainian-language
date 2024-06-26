@@ -4,7 +4,7 @@
 $_['heading_title'] = 'Реєстрація';
 
 // Text
-$_['text_account'] = 'Особистий Кабінет';
+$_['text_account'] = 'Особистий кабінет';
 $_['text_register'] = 'Реєстрація';
 $_['text_account_already'] = 'Якщо Ви вже зареєстровані, перейдіть на сторінку <a href="%s">авторизації</a>.';
 $_['text_your_details'] = 'Основні дані';
@@ -17,7 +17,7 @@ $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a>
 $_['entry_customer_group'] = 'Напрям бізнесу';
 $_['entry_firstname'] = 'Ім&apos;я';
 $_['entry_lastname'] = 'Прізвище';
-$_['entry_email'] = 'E-Mail';
+$_['entry_email'] = 'Email';
 $_['entry_telephone'] = 'Телефон';
 $_['entry_fax'] = 'Факс';
 $_['entry_company'] = 'Компанія';
@@ -26,7 +26,7 @@ $_['entry_address_2'] = 'Адреса 2';
 $_['entry_postcode'] = 'Індекс';
 $_['entry_city'] = 'Місто';
 $_['entry_country'] = 'Країна';
-$_['entry_zone'] = 'Регіон / Область';
+$_['entry_zone'] = 'Область / Регіон';
 $_['entry_newsletter'] = 'Підписка на новини';
 $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердження пароля';
@@ -35,13 +35,13 @@ $_['entry_confirm'] = 'Підтвердження пароля';
 $_['error_exists'] = 'Цей email вже зареєстрований!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
-$_['error_email'] = 'E-Mail введено неправильно!';
+$_['error_email'] = 'Email введено неправильно!';
 $_['error_telephone'] = 'Телефон повинен містити від 3 до 32 цифр!';
 $_['error_address_1'] = 'Адреса має містити від 3 до 128 символів!';
 $_['error_city'] = 'Назва міста має містити від 2 до 128 символів!';
 $_['error_postcode'] = 'Індекс повинен бути від 2 до 10 символів!';
 $_['error_country'] = 'Оберіть країну!';
-$_['error_zone'] = 'Оберіть регіон / область!';
+$_['error_zone'] = 'Оберіть область або регіон!';
 $_['error_custom_field'] = '%s обов&apos;язково до заповнення!';
 $_['error_password'] = 'пароль має містити від 4 до 20 символів!';
 $_['error_confirm'] = 'Паролі і пароль підтвердження не збігаються!';

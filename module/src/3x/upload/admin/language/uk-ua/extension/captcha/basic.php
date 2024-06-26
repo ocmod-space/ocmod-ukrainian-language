@@ -4,12 +4,12 @@
 $_['heading_title'] = 'Basic Captcha';
 
 // Text
-$_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Success: You have modified Basic Captcha!';
-$_['text_edit'] = 'Edit Basic Captcha';
+$_['text_extension'] = 'Розширення';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
+$_['text_edit'] = 'Налаштування';
 
 // Entry
-$_['entry_status'] = 'Status';
+$_['entry_status'] = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Basic Captcha!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

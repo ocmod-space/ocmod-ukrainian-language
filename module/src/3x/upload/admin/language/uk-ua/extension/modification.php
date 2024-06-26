@@ -12,7 +12,7 @@ $_['text_list'] = 'Модифікатори';
 $_['column_name'] = 'Назва';
 $_['column_author'] = 'Автор';
 $_['column_version'] = 'Версія';
-$_['column_status'] = 'Стан';
+$_['column_status'] = 'Статус';
 $_['column_date_added'] = 'Дата';
 $_['column_action'] = 'Дія';
 

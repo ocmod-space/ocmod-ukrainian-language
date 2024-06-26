@@ -1,26 +1,26 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Developer Settings';
+$_['heading_title'] = 'Інструменти розробника';
 
 // Text
-$_['text_success'] = 'Success: You have modified developer settings!';
-$_['text_theme'] = 'theme';
+$_['text_success'] = 'Виконано! Ви змінили налаштування інструментів розробника!';
+$_['text_theme'] = 'теми';
 $_['text_sass'] = 'SASS';
-$_['text_cache'] = 'Success: You have cleared the %s cache!';
+$_['text_cache'] = 'Виконано! Ви очистили кеш %s!';
 
 // Column
-$_['column_component'] = 'Component';
-$_['column_action'] = 'Action';
+$_['column_component'] = 'Компонент';
+$_['column_action'] = 'Дія';
 
 // Entry
-$_['entry_theme'] = 'Theme';
+$_['entry_theme'] = 'Тема';
 $_['entry_sass'] = 'SASS';
-$_['entry_cache'] = 'Cache';
+$_['entry_cache'] = 'Кеш';
 
 // Button
-$_['button_on'] = 'On';
-$_['button_off'] = 'Off';
+$_['button_on'] = 'Увімк.';
+$_['button_off'] = 'Вимк.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify developer settings!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

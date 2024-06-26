@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Мею за замовчуванням';
+$_['heading_title'] = 'Меню за замовчуванням';
 
 // Текст
 $_['text_extension'] = 'Розширення';
@@ -17,7 +17,7 @@ $_['column_action'] = 'Дія';
 // Вступ
 $_['entry_google_category'] = 'Категорія Google';
 $_['entry_category'] = 'Категорія';
-$_['entry_data_feed'] = 'Url даних каналу';
+$_['entry_data_feed'] = 'URL каналу';
 $_['entry_status'] = 'Статус';
 
 // Помилка

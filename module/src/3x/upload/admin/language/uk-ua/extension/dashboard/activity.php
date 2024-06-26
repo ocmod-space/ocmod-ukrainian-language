@@ -5,7 +5,7 @@ $_['heading_title'] = 'Недавня активність';
 
 // Text
 $_['text_extension'] = 'Розширення';
-$_['text_success'] = 'Налаштування були успішно змінені!';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_edit'] = 'Налаштування';
 $_['text_customer_address_add'] = '<a href="customer_id=%d">%s</a> - реєстрація нової адреси.';
 $_['text_customer_address_edit'] = '<a href="customer_id=%d">%s</a> - оновлення адреси.';

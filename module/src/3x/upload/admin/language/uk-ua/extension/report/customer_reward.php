@@ -4,14 +4,14 @@
 $_['heading_title'] = 'Customer Reward Points Report';
 
 // Text
-$_['text_extension'] = 'Extensions';
-$_['text_edit'] = 'Edit Customer Reward Points Report';
-$_['text_success'] = 'Success: You have modified customer reward points report!';
+$_['text_extension'] = 'Розширення';
+$_['text_edit'] = 'Налаштування';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_filter'] = 'Filter';
 
 // Column
 $_['column_customer'] = 'Customer Name';
-$_['column_email'] = 'E-Mail';
+$_['column_email'] = 'Email';
 $_['column_customer_group'] = 'Customer Group';
 $_['column_status'] = 'Status';
 $_['column_points'] = 'Reward Points';
@@ -23,8 +23,8 @@ $_['column_action'] = 'Action';
 $_['entry_date_start'] = 'Початкова дата';
 $_['entry_date_end'] = 'Кінцева дата';
 $_['entry_customer'] = 'Customer';
-$_['entry_status'] = 'Status';
+$_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Sort Order';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify customer reward points report!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

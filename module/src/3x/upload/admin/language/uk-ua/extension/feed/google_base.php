@@ -6,7 +6,7 @@ $_['heading_title'] = 'Google Base';
 // Text
 $_['text_extension'] = 'Розширення';
 $_['text_success'] = 'Налаштування модуля оновлено!';
-$_['text_edit'] = 'Редагувати';
+$_['text_edit'] = 'Налаштування';
 $_['text_import'] = 'Скачайте список категорій <a href="https://support.google.com/merchants/answer/160081?hl=ru" target="_blank" class="alert-link">натисніть тут</a> та оберіть номер ID файлу (.txt). Імпортуйте за допомогою зеленої кнопки імпорту.';
 
 // Column

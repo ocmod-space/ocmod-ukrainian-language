@@ -4,8 +4,8 @@ $_['heading_title'] = 'Google reCAPTCHA';
 
 // Text
 $_['text_captcha'] = 'Захист';
-$_['text_success'] = 'Налаштування були успішно змінені!';
-$_['text_edit'] = 'Налаштування модуля';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
+$_['text_edit'] = 'Налаштування';
 $_['text_signup'] = 'Перейдіть до <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA</u></a> зареєструйтесь.';
 
 // Entry

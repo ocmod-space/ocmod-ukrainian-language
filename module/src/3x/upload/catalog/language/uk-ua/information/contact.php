@@ -17,7 +17,7 @@ $_['button_submit'] = 'Відправити повідомлення';
 
 // Entry
 $_['entry_name'] = 'Ім&apos;я';
-$_['entry_email'] = 'E-Mail';
+$_['entry_email'] = 'Email';
 $_['entry_enquiry'] = 'Ваше питання або повідомлення';
 $_['entry_captcha'] = 'Введіть код, зазначений на картинці';
 

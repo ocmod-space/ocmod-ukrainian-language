@@ -4,7 +4,7 @@
 $_['heading_title'] = 'Переклад';
 
 // Text
-$_['text_edit'] = 'Редагувати';
+$_['text_edit'] = 'Налаштування';
 $_['text_list'] = 'Переклад';
 $_['text_translation'] = 'Вибрати';
 $_['text_translation'] = 'Вибрати';

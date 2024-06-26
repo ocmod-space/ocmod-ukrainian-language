@@ -4,10 +4,10 @@
 $_['heading_title'] = 'Користувачі';
 
 // Text
-$_['text_success'] = 'Налаштування були успішно змінені!';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_list'] = 'Користувачі';
 $_['text_add'] = 'Додати';
-$_['text_edit'] = 'Редагувати';
+$_['text_edit'] = 'Налаштування';
 
 // Column
 $_['column_username'] = 'Логін';
@@ -20,9 +20,9 @@ $_['entry_username'] = 'Логін';
 $_['entry_user_group'] = 'Група користувачів';
 $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердіть пароль';
-$_['entry_firstname'] = 'Ім&apos;я, по Батькові';
+$_['entry_firstname'] = 'Ім&apos;я, по-батькові';
 $_['entry_lastname'] = 'Прізвище';
-$_['entry_email'] = 'E-Mail';
+$_['entry_email'] = 'Email';
 $_['entry_image'] = 'Зображення';
 $_['entry_status'] = 'Статус';
 

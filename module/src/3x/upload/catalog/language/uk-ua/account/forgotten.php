@@ -4,14 +4,14 @@
 $_['heading_title'] = 'Забули пароль?';
 
 // Text
-$_['text_account'] = 'Особистий Кабінет';
+$_['text_account'] = 'Особистий кабінет';
 $_['text_forgotten'] = 'Забутли пароль?';
-$_['text_your_email'] = 'E-Mail';
+$_['text_your_email'] = 'Email';
 $_['text_email'] = 'Введіть email Вашого облікового запису і натисніть кнопку Продовжити, щоб отримати пароль електронною поштою.';
 $_['text_success'] = 'Новий пароль було надіслано на Ваш email.';
 
 // Entry
-$_['entry_email'] = 'E-Mail';
+$_['entry_email'] = 'Email';
 $_['entry_password'] = 'Новий пароль';
 $_['entry_confirm'] = 'Підтвердіть новий пароль';
 

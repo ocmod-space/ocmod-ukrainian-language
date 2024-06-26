@@ -4,8 +4,8 @@
 $_['heading_title'] = 'Online Report';
 
 // Text
-$_['text_extension'] = 'Extensions';
-$_['text_success'] = 'Success: You have modified customers online report!';
+$_['text_extension'] = 'Розширення';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
 $_['text_list'] = 'Online List';
 $_['text_filter'] = 'Filter';
 $_['text_guest'] = 'Guest';
@@ -21,8 +21,8 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_ip'] = 'IP';
 $_['entry_customer'] = 'Customer';
-$_['entry_status'] = 'Status';
+$_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Sort Order';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify customers online report!';
+$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

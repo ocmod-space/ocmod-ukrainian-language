@@ -6,7 +6,7 @@ $_['heading_title'] = 'Звіт по кредиту клієнтів';
 // Column
 $_['text_list'] = 'Кредити клієнтів';
 $_['column_customer'] = 'Ім&apos;я клієнта';
-$_['column_email'] = 'E-Mail';
+$_['column_email'] = 'Email';
 $_['column_customer_group'] = 'Група клієнта';
 $_['column_status'] = 'Статус';
 $_['column_total'] = 'Разом';

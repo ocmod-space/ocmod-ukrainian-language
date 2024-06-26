@@ -5,9 +5,9 @@ $_['heading_title'] = 'Звіт активності партнера';
 
 // Text
 $_['text_list'] = 'Список активності';
-$_['text_edit'] = '<a href="affiliate_id=%d>%s</a> - оновлена інформація про обліковому записі.';
+$_['text_edit'] = '<a href="affiliate_id=%d>%s</a> - оновлено інформація облікового запису.';
 $_['text_forgotten'] = '<a href="affiliate_id=%d>%s</a> - запропоновано новий пароль';
-$_['text_login'] = '<a href="affiliate_id=%d>%s</a> - виконаний вхід.';
+$_['text_login'] = '<a href="affiliate_id=%d>%s</a> - виконано вхід.';
 $_['text_password'] = '<a href="affiliate_id=%d>%s</a> - оновлено пароль.';
 $_['text_payment'] = '<a href="affiliate_id=%d>%s</a> - оновлені деталі оплати.';
 $_['text_register'] = '<a href="affiliate_id=%d>%s</a> - зареєстровано новий акаунт.';

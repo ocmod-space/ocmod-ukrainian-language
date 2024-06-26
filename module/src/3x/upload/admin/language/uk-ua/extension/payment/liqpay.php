@@ -5,8 +5,8 @@ $_['heading_title'] = 'LIQPAY';
 
 // Text
 $_['text_extension'] = 'Розширення';
-$_['text_success'] = 'Налаштування були успішно змінені!';
-$_['text_edit'] = 'Редагувати';
+$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
+$_['text_edit'] = 'Налаштування';
 $_['text_pay'] = 'LIQPAY';
 $_['text_card'] = 'Кредитна карта';
 $_['text_liqpay'] = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" title="LIQPAY" style="border: 1px solid #EEEEEE;" />';
