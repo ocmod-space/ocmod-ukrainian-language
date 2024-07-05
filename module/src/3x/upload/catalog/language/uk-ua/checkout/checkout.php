@@ -26,7 +26,7 @@ $_['text_your_address'] = 'Адреса';
 $_['text_your_password'] = 'Пароль';
 $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a> і згоден з умовами';
 $_['text_address_new'] = 'Нова адреса';
-$_['text_address_existing'] = 'Існюча адреса';
+$_['text_address_existing'] = 'Існуюча адреса';
 $_['text_shipping_method'] = 'Оберіть зручний спосіб доставки';
 $_['text_payment_method'] = 'Оберіть зручний спосіб оплати';
 $_['text_comments'] = 'Додайте коментар до свого замовлення';
