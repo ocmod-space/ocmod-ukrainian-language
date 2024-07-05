@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Кошик для покупок';
+$_['heading_title'] = 'Кошик';
 
 // Text
 $_['text_success'] = '<a href="%s">%s</a> - додано <a href="%s">в кошик</a>!';
