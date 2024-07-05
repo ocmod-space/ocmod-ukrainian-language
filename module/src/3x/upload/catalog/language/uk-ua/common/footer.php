@@ -13,6 +13,6 @@ $_['text_affiliate'] = 'Партнерська програма';
 $_['text_special'] = 'Акції';
 $_['text_account'] = 'Особистий кабінет';
 $_['text_order'] = 'Історія замовлень';
-$_['text_wishlist'] = 'Закладки';
+$_['text_wishlist'] = 'Обране';
 $_['text_newsletter'] = 'Підписка на email-розсилку';
 $_['text_powered'] = '%s &copy; %s<br />За підтримки <a href="https://github.com/ocmod-space/">ocmod.space</a>';
