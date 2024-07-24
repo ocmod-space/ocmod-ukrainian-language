@@ -1,26 +1,26 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Coupons Report';
+$_['heading_title'] = 'Звіт про купони';
 
 // Text
 $_['text_extension'] = 'Розширення';
 $_['text_edit'] = 'Налаштування';
 $_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
-$_['text_filter'] = 'Filter';
+$_['text_filter'] = 'Фильтр';
 
 // Column
-$_['column_name'] = 'Coupon Name';
-$_['column_code'] = 'Code';
-$_['column_orders'] = 'Orders';
-$_['column_total'] = 'Total';
-$_['column_action'] = 'Action';
+$_['column_name'] = 'Назва купона';
+$_['column_code'] = 'Код';
+$_['column_orders'] = 'К-ть замовлень';
+$_['column_total'] = 'Усього';
+$_['column_action'] = 'Дія';
 
 // Entry
 $_['entry_date_start'] = 'Початкова дата';
 $_['entry_date_end'] = 'Кінцева дата';
 $_['entry_status'] = 'Статус';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортування';
 
 // Error
 $_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

@@ -1,10 +1,10 @@
 <?php
 
-// Heading
-$_['heading_title'] = 'Reports';
+// Заголовок
+$_['heading_title'] = 'Звіти';
 
-// Text
-$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
-$_['text_list'] = 'Report List';
-$_['text_type'] = 'Choose the report type';
-$_['text_filter'] = 'Filter';
+// Текст
+$_['text_success'] = 'Виконано! Ви змінили звіти.';
+$_['text_list'] = 'Список звітів';
+$_['text_type'] = 'Виберіть тип звіту';
+$_['text_filter'] = 'Фільтр';

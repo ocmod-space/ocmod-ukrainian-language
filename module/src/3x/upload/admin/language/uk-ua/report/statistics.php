@@ -1,25 +1,25 @@
 <?php
 
-// Heading
-$_['heading_title'] = 'Statistics';
+// Заголовок
+$_['heading_title'] = 'Статистика';
 
-// Text
-$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
-$_['text_list'] = 'Statistics List';
-$_['text_order_sale'] = 'Order Sales';
-$_['text_order_processing'] = 'Orders Processing';
-$_['text_order_complete'] = 'Orders Complete';
-$_['text_order_other'] = 'Orders Other';
-$_['text_returns'] = 'Returns';
-$_['text_customer'] = 'Customers Waiting for Approval';
-$_['text_affiliate'] = 'Affiliates Waiting for Approval';
-$_['text_product'] = 'Out of stock products';
-$_['text_review'] = 'Pending Reviews';
+// Текст
+$_['text_success'] = 'Виконано! Ви змінили статистику.';
+$_['text_list'] = 'Список статистики';
+$_['text_order_sale'] = 'Замовити продаж';
+$_['text_order_processing'] = 'Обробка замовлень';
+$_['text_order_complete'] = 'Замовлення виконано';
+$_['text_order_other'] = 'Інші замовлення';
+$_['text_returns'] = 'Повернення';
+$_['text_customer'] = 'Клієнти, що очікують на схвалення';
+$_['text_affiliate'] = 'Партнери, що очікують на схвалення';
+$_['text_product'] = 'Товарів немає в наявності';
+$_['text_review'] = 'Очікує на перегляд';
 
-// Column
-$_['column_name'] = 'Statistics Name';
-$_['column_value'] = 'Value';
-$_['column_action'] = 'Action';
+// Колонка
+$_['column_name'] = 'Назва статистики';
+$_['column_value'] = 'Значення';
+$_['column_action'] = 'Дія';
 
-// Error
-$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';
+// Помилка
+$_['error_permission'] = 'Увага! У вас немає дозволу на зміну статистики!';

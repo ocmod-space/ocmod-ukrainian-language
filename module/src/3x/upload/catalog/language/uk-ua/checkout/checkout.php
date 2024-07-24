@@ -22,7 +22,7 @@ $_['text_guest'] = 'Гість';
 $_['text_register_account'] = 'Створення облікового запису допоможе робити покупки швидше і зручніше, а також отримувати знижки як постійний клієнт.';
 $_['text_forgotten'] = 'Забули пароль?';
 $_['text_your_details'] = 'Особисті дані';
-$_['text_your_address'] = 'Адреса';
+$_['text_your_address'] = 'Ваша адреса';
 $_['text_your_password'] = 'Пароль';
 $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a> і згоден з умовами';
 $_['text_address_new'] = 'Нова адреса';

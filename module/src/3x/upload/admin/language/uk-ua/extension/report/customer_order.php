@@ -1,32 +1,31 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Customer Orders Report';
+$_['heading_title'] = 'Звіт про замовлення клієнтів';
 
 // Text
 $_['text_extension'] = 'Розширення';
 $_['text_edit'] = 'Налаштування';
 $_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
-$_['text_filter'] = 'Filter';
-$_['text_all_status'] = 'All Statuses';
+$_['text_filter'] = 'Фильтр';
+$_['text_all_status'] = 'Всі статуси';
 
-// Column
-$_['column_customer'] = 'Customer Name';
-$_['column_email'] = 'Email';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status'] = 'Status';
-$_['column_orders'] = 'No. Orders';
-$_['column_products'] = 'No. Products';
-$_['column_total'] = 'Total';
-$_['column_action'] = 'Action';
+// Column  ʼ
+$_['column_customer'] = 'Ім&apos;я клієнта';
+$_['column_email'] = 'Електронна пошта';
+$_['column_customer_group'] = 'Група клієнтів';
+$_['column_status'] = 'Статус';
+$_['column_orders'] = 'К-ть замовлень';
+$_['column_products'] = 'К-ть товарів';
+$_['column_total'] = 'Усього';
+$_['column_action'] = 'Дія';
 
 // Entry
 $_['entry_date_start'] = 'Початкова дата';
 $_['entry_date_end'] = 'Кінцева дата';
-$_['entry_customer'] = 'Customer';
-$_['entry_status'] = 'Order Status';
+$_['entry_customer'] = 'Клієнт';
 $_['entry_status'] = 'Статус';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортування';
 
 // Error
 $_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';

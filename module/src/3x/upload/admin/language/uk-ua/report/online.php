@@ -1,28 +1,28 @@
 <?php
 
-// Heading
-$_['heading_title'] = 'Online Report';
+// Заголовок
+$_['heading_title'] = 'Онлайн-звіт';
 
-// Text
+// Текст
 $_['text_extension'] = 'Розширення';
-$_['text_success'] = 'Виконано! Налаштування були успішно змінені!';
-$_['text_list'] = 'Online List';
-$_['text_filter'] = 'Filter';
-$_['text_guest'] = 'Guest';
+$_['text_success'] = 'Виконано! Ви змінили онлайн-звіт про клієнтів!';
+$_['text_list'] = 'Онлайн-список';
+$_['text_filter'] = 'Фільтр';
+$_['text_guest'] = 'Гість';
 
-// Column
+// Колонка
 $_['column_ip'] = 'IP';
-$_['column_customer'] = 'Customer';
-$_['column_url'] = 'Last Page Visited';
-$_['column_referer'] = 'Referer';
-$_['column_date_added'] = 'Last Click';
-$_['column_action'] = 'Action';
+$_['column_customer'] = 'Клієнт';
+$_['column_url'] = 'Остання відвідана сторінка';
+$_['column_referer'] = 'Реферал';
+$_['column_date_added'] = 'Останній клік';
+$_['column_action'] = 'Дія';
 
-// Entry
+// Вступ
 $_['entry_ip'] = 'IP';
-$_['entry_customer'] = 'Customer';
+$_['entry_customer'] = 'Клієнт';
 $_['entry_status'] = 'Статус';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Увага! Недостатньо прав для доступу чи редагування, зверніться до адміністратора!';
+// Помилка
+$_['error_permission'] = 'Увага! Ви не маєте дозволу змінювати онлайн-звіт про клієнтів!';

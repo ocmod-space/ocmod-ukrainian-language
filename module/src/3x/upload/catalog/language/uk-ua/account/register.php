@@ -9,7 +9,7 @@ $_['text_register'] = 'Реєстрація';
 $_['text_account_already'] = 'Якщо Ви вже зареєстровані, перейдіть на сторінку <a href="%s">авторизації</a>.';
 $_['text_your_details'] = 'Основні дані';
 $_['text_your_address'] = 'адреса';
-$_['text_newsletter'] = 'Email-розсилкан';
+$_['text_newsletter'] = 'Email-розсилка';
 $_['text_your_password'] = 'пароль';
 $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a> і згоден з умовами';
 
