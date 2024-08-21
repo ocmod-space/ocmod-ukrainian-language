@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Звіт про купони';
+$_['heading_title'] = 'Промокоди';
 
 // Text
 $_['text_extension'] = 'Розширення';
@@ -10,7 +10,7 @@ $_['text_success'] = 'Виконано! Налаштування були усп
 $_['text_filter'] = 'Фильтр';
 
 // Column
-$_['column_name'] = 'Назва купона';
+$_['column_name'] = 'Промокоди';
 $_['column_code'] = 'Код';
 $_['column_orders'] = 'К-ть замовлень';
 $_['column_total'] = 'Усього';

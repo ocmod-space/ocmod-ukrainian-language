@@ -20,7 +20,7 @@ $_['entry_website'] = 'Сайт';
 $_['entry_tax'] = 'Податковий номер';
 $_['entry_payment'] = 'Спосіб оплати';
 $_['entry_cheque'] = 'ПІБ отримувача';
-$_['entry_paypal'] = 'PayPal Email рахунок';
+$_['entry_paypal'] = 'PayPal E-mail рахунок';
 $_['entry_bank_name'] = 'Назва баонку';
 $_['entry_bank_branch_number'] = 'IBAN';
 $_['entry_bank_swift_code'] = 'SWIFT код';
@@ -30,7 +30,7 @@ $_['entry_bank_account_number'] = 'Account Number';
 // Error
 $_['error_agree'] = 'Увага! Ви повинні погодитись на %s!';
 $_['error_cheque'] = 'Потрібно перевірити ім&apos;я одержувача платежу!';
-$_['error_paypal'] = 'PayPal Email Address не видається дійсним!';
+$_['error_paypal'] = 'PayPal E-mail Address не видається дійсним!';
 $_['error_bank_account_name'] = 'Потрібна назва облікового запису!';
 $_['error_bank_account_number'] = 'Необхідний номер облікового запису!';
 $_['error_custom_field'] = '%s обовязковий!';

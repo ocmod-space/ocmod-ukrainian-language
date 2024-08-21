@@ -20,7 +20,7 @@ $_['text_agree'] = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a>
 // Entry
 $_['entry_firstname'] = 'Ім&apos;я, по-батькові';
 $_['entry_lastname'] = 'Прізвище';
-$_['entry_email'] = 'Email';
+$_['entry_email'] = 'E-mail';
 $_['entry_telephone'] = 'Телефон';
 $_['entry_fax'] = 'Факс';
 $_['entry_company'] = 'Компанія';
@@ -34,7 +34,7 @@ $_['entry_zone'] = 'Область / Регіон';
 $_['entry_tax'] = 'ІПН';
 $_['entry_payment'] = 'Спосіб оплати';
 $_['entry_cheque'] = 'Ім&apos;я одержувача чека';
-$_['entry_paypal'] = 'PayPal Email обліковий запис';
+$_['entry_paypal'] = 'PayPal E-mail обліковий запис';
 $_['entry_bank_name'] = 'Найменування банку';
 $_['entry_bank_branch_number'] = 'Номер відділення';
 $_['entry_bank_swift_code'] = 'БИК';
@@ -44,10 +44,10 @@ $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердження пароля';
 
 // Error
-$_['error_exists'] = 'Цей email вже зареєстрований!';
+$_['error_exists'] = 'Цей e-mail вже зареєстрований!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
-$_['error_email'] = 'Email адресу введено невірно!';
+$_['error_email'] = 'E-mail адресу введено невірно!';
 $_['error_telephone'] = 'Номер телефону має містити від 3 до 32 символів!';
 $_['error_password'] = 'Пароль має містити від 4 до 20 символів!';
 $_['error_confirm'] = 'Пароль і Пароль підтвердження не збігаються!';

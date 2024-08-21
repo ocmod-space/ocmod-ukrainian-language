@@ -6,7 +6,7 @@ $_['heading_title'] = 'Авторизація';
 // Text
 $_['text_heading'] = 'Авторизація';
 $_['text_login'] = 'Введіть логін і пароль';
-$_['text_forgotten'] = 'Забули пароль?';
+$_['text_forgotten'] = 'Відновлення пароля';
 
 // Entry
 $_['entry_username'] = 'Логін';

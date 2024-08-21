@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Звіт про повернення';
+$_['heading_title'] = 'Повернення';
 
 // Text
 $_['text_extension'] = 'Розширення';

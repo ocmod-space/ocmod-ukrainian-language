@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Звіт про транзакції клієнта';
+$_['heading_title'] = 'Клієнтські транзакції';
 
 // Column
 $_['text_extension'] = 'Розширення';
@@ -11,7 +11,7 @@ $_['text_filter'] = 'Фильтр';
 
 // Column
 $_['column_customer'] = 'Ім&apos;я клієнта';
-$_['column_email'] = 'Email';
+$_['column_email'] = 'Електронна адреса';
 $_['column_customer_group'] = 'Група клієнтів';
 $_['column_status'] = 'Статус';
 $_['column_total'] = 'Усього';

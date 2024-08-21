@@ -22,7 +22,7 @@ $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердіть пароль';
 $_['entry_firstname'] = 'Ім&apos;я, по-батькові';
 $_['entry_lastname'] = 'Прізвище';
-$_['entry_email'] = 'Email';
+$_['entry_email'] = 'E-mail';
 $_['entry_image'] = 'Зображення';
 $_['entry_status'] = 'Статус';
 
@@ -35,5 +35,5 @@ $_['error_password'] = 'Пароль має містити від 3 до 20 си
 $_['error_confirm'] = 'Паролі і пароль підтвердження не збігаються!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
-$_['error_email'] = 'Вказаний email некоректний!';
-$_['error_exists_email'] = 'Увага! Вказаний email вже зареєстрований!';
+$_['error_email'] = 'Вказаний e-mail некоректний!';
+$_['error_exists_email'] = 'Увага! Вказаний e-mail вже зареєстрований!';

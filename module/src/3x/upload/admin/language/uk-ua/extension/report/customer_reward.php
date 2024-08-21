@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Звіт про бонусні бали клієнтів';
+$_['heading_title'] = 'Бонусні бали';
 
 // Text
 $_['text_extension'] = 'Розширення';

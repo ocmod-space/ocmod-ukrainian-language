@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Маркетинговий звіт';
+$_['heading_title'] = 'Маркетинг';
 
 // Text
 $_['text_extension'] = 'Розширення';

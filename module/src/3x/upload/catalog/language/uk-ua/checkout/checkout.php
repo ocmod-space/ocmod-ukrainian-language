@@ -20,7 +20,7 @@ $_['text_i_am_returning_customer'] = 'Постійний клієнт';
 $_['text_register'] = 'Реєстрація';
 $_['text_guest'] = 'Гість';
 $_['text_register_account'] = 'Створення облікового запису допоможе робити покупки швидше і зручніше, а також отримувати знижки як постійний клієнт.';
-$_['text_forgotten'] = 'Забули пароль?';
+$_['text_forgotten'] = 'Відновлення пароля';
 $_['text_your_details'] = 'Особисті дані';
 $_['text_your_address'] = 'Ваша адреса';
 $_['text_your_password'] = 'Пароль';
@@ -50,8 +50,8 @@ $_['column_price'] = 'Ціна';
 $_['column_total'] = 'Разом';
 
 // Entry
-$_['entry_email_address'] = 'Email';
-$_['entry_email'] = 'Email';
+$_['entry_email_address'] = 'E-mail';
+$_['entry_email'] = 'E-mail';
 $_['entry_password'] = 'Пароль';
 $_['entry_confirm'] = 'Підтвердження пароля';
 $_['entry_firstname'] = 'Ім&apos;я';
@@ -67,15 +67,15 @@ $_['entry_postcode'] = 'Індекс';
 $_['entry_city'] = 'Місто';
 $_['entry_country'] = 'Країна';
 $_['entry_zone'] = 'Область / Регіон';
-$_['entry_newsletter'] = 'Email-розсилка.';
+$_['entry_newsletter'] = 'E-mail розсилка.';
 $_['entry_shipping'] = 'Адреси платника і отримувача збігаються.';
 
 // Error
 $_['error_warning'] = 'Виникла проблема при обробці Вашого замовлення! Якщо проблема виникає знову, оберіть інший спосіб оплати або <a href="%s">зв&apos;яжіться з адміністратором магазину</a>.';
-$_['error_login'] = 'Увага! Неправильний email і/або пароль.';
+$_['error_login'] = 'Увага! Неправильний e-mail і/або пароль.';
 $_['error_attempts'] = 'Ви перевищили максимальну кількість спроб авторизації. Повторіть спробу через 1 годину';
 $_['error_approved'] = 'Перш ніж Ви зможете увійти, ми повинні схвалити Ваш обліковий запис.';
-$_['error_exists'] = 'Увага! Цей email вже зареєстрований!';
+$_['error_exists'] = 'Увага! Цей e-mail вже зареєстрований!';
 $_['error_firstname'] = 'Ім&apos;я має містити від 1 до 32 символів!';
 $_['error_lastname'] = 'Прізвище має містити від 1 до 32 символів!';
 $_['error_email'] = 'Е-mail адресу введено невірно!';

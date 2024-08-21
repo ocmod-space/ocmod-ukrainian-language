@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Податковий звіт';
+$_['heading_title'] = 'Податки';
 
 // Text
 $_['text_extension'] = 'Розширення';
@@ -17,7 +17,7 @@ $_['text_all_status'] = 'Всі статуси';
 // Column
 $_['column_date_start'] = 'Початкова дата';
 $_['column_date_end'] = 'Кінцева дата';
-$_['column_title'] = 'Назва податку';
+$_['column_title'] = 'Податок';
 $_['column_orders'] = 'К-ть замовлень';
 $_['column_total'] = 'Усього';
 

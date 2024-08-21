@@ -1,7 +1,7 @@
 <?php
 
 // header
-$_['heading_title'] = 'Відновити пароль';
+$_['heading_title'] = 'Відновлення пароля';
 
 // Text
 $_['text_account'] = 'Особистий кабінет';
